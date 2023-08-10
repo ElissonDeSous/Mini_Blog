@@ -1,0 +1,17 @@
+.Container{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.paragrafo{
+    font-size: 18px;
+}
+.sobre{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(11, 167, 5);
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.criar_poste{
+    text-align: center;
+}
+
+
+.areaBotao{
+    width: 1100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+textarea{
+    width: 400px;
+    height: 100px;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+    
+}
+.p{
+    text-align: center;
+    font-size: 20px;
+}
+form{
+    margin-bottom: 100px;
+    height: 100%;
+
+    
+}
